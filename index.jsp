@@ -16,7 +16,7 @@
                 <a href="index.jsp">Home</a>
                 <a href="register_gadget.jsp">Register Gadget</a>
                 <a href="verify.jsp">Verify Exit</a>
-                <a href="studentPortal.jsp">Student Portal</a>
+                <a href="student_portal.jsp">Student Portal</a>
             </nav>
         </div>
 
@@ -33,7 +33,7 @@
             
             <div class="home-grid">
 
-                <a href="register.jsp" class="home-card">
+                <a href="register_gadget.jsp" class="home-card">
                     <div class="icon">📋</div>
                     <h3>Register Gadget</h3>
                     <p>Security officers register student gadgets on campus entry.</p>
@@ -45,7 +45,7 @@
                     <p>Check and verify gadgets at exit gates before a student leaves.</p>
                 </a>
 
-                <a href="studentPortal.jsp" class="home-card">
+                <a href="student_portal.jsp" class="home-card">
                     <div class="icon">🎓</div>
                     <h3>Student Portal</h3>
                     <p>Students can view their registered gadgets and entry/exit history.</p>
@@ -60,3 +60,4 @@
 
     </body>
 </html>
+
