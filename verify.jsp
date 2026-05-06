@@ -16,7 +16,7 @@
             <a href="index.jsp">Home</a>
             <a href="register_gadget.jsp">Register Gadget</a>
             <a href="verify.jsp">Verify Exit</a>
-            <a href="studentPortal.jsp">Student Portal</a>
+            <a href="student_portal.jsp">Student Portal</a>
         </nav>
     </div>
 
