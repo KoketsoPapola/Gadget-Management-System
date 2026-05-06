@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+
+form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+}
+
+input, select {
+    width: 100%;
+    margin-bottom: 10px;
+}
